@@ -1,0 +1,38 @@
+[
+  { 
+    "title": "Step 1 - Create and run a minimum app",
+    "timeInMinutes": 10,
+    "note": ""
+  },
+  { 
+    "title": "Step 2 - Import and Adapt ToDoMVC app",
+    "timeInMinutes": 20,
+    "note": ""
+  },
+  { 
+    "title": "Step 3 - Alarms and notifications",
+    "timeInMinutes": 20,
+    "note": ""
+  },
+  { 
+    "title": "Step 4 - Parse URLs and open then in a Webview",
+    "timeInMinutes": 10,
+    "note": ""
+  },
+  { 
+    "title": "Step 5 - Add images from the web",
+    "timeInMinutes": 20,
+    "note": ""
+  },
+  { 
+    "title": "Step 6 - Export ToDo's to the filesystem",
+    "timeInMinutes": 20,
+    "note": ""
+  },
+  { 
+    "title": "Catch up and Advanced challenge",
+    "timeInMinutes": 20,
+    "note": ""
+  }
+  
+]

@@ -1,0 +1,15 @@
+{
+    "manifest_version" : 2,
+    "name": "Todo",
+    "version": "1.0.0",
+    "icons":{
+        "128":"icon_128.png"
+        },
+    "permissions":["storage","alarms","notifications","webview","<all_urls>",{"filesystem":["write"]}],
+    "app":{
+        "background":{
+            "scripts":["background.js"]
+        }
+    },
+    "minimum_chrome_version": "28"
+}
